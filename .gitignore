@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment variables 
+# .env
+
+# OS
+Thumbs.db
+.DS_Store
+
+# HTTP test files (optional, can remove this line if you want to keep them)
+# test_main.http
