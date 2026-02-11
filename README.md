@@ -6,7 +6,7 @@
 
 # AgriStack Advice API
 
-Backend API do generowania rekomendacji ochrony roślin w oparciu o **Google Gemini** z dostępem do internetu (grounding). Część systemu [AgriStack](https://github.com/TWOJ_USER/agristack) — aplikacja mobilna komunikuje się z tym serwerem, wysyłając dane o uprawie i stanie zdrowotnym, a w odpowiedzi otrzymuje konkretne środki ochrony roślin z dawkami w formacie JSON.
+Backend API do generowania rekomendacji ochrony roślin w oparciu o **Google Gemini** z dostępem do internetu (grounding). Część systemu [AgriStack](https://github.com/Kieratw/agristack) — aplikacja mobilna komunikuje się z tym serwerem, wysyłając dane o uprawie i stanie zdrowotnym, a w odpowiedzi otrzymuje konkretne środki ochrony roślin z dawkami w formacie JSON.
 
 ---
 
